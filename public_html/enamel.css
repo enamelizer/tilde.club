@@ -1,0 +1,7 @@
+body {
+    background-color: darkslategrey;
+    text-align: center;
+    color: orangered;
+    font-smooth: never;
+    -webkit-font-smoothing : none;
+}
