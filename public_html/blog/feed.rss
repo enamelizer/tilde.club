@@ -2,9 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>hi im enamel</title><link>https://tilde.club/~enamel/blog/index.html</link>
 <description></description><language>en</language>
-<lastBuildDate>Fri, 17 Jul 2020 07:37:39 +0000</lastBuildDate>
-<pubDate>Fri, 17 Jul 2020 07:37:39 +0000</pubDate>
+<lastBuildDate>Sat, 18 Jul 2020 06:47:12 +0000</lastBuildDate>
+<pubDate>Sat, 18 Jul 2020 06:47:12 +0000</pubDate>
 <atom:link href="https://tilde.club/~enamel/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+everydays 5
+</title><description><![CDATA[
+
+<p>Tried to find something quick to update, still ended up spending an hour fiddling with the CSS on this blog.
+   I largely followed (aped) the design guidelines at 
+   <a href="https://www.material.io/design/color/dark-theme.html">google's material dark theme</a>.
+</p>
+<p>I also reformatted the main css file, and when doing so realized I was un-minifying it and making the file
+   size larger for my own feelings of vanity. Going to look into a script to take my pretty format and minify it
+   to reduce the file size. If you are going for small static HTML, might as well go all the way right?
+<p>
+<p>streak: 5</p>
+
+
+<p>tags: <a href='tag_everydays.html'>everydays</a>, <a href='tag_homepage-update.html'>homepage-update</a></p>
+<!-- text end -->
+]]></description><link>https://tilde.club/~enamel/blog/everydays-5.html</link>
+<guid>https://tilde.club/~enamel/blog/./everydays-5.html</guid>
+<dc:creator>~enamel</dc:creator>
+<pubDate>Sat, 18 Jul 2020 06:47:10 +0000</pubDate></item>
 <item><title>
 everydays 4
 </title><description><![CDATA[
