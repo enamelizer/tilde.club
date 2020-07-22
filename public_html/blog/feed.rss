@@ -2,9 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>hi im enamel</title><link>https://tilde.club/~enamel/blog/index.html</link>
 <description></description><language>en</language>
-<lastBuildDate>Tue, 21 Jul 2020 06:33:01 +0000</lastBuildDate>
-<pubDate>Tue, 21 Jul 2020 06:33:01 +0000</pubDate>
+<lastBuildDate>Wed, 22 Jul 2020 06:30:38 +0000</lastBuildDate>
+<pubDate>Wed, 22 Jul 2020 06:30:38 +0000</pubDate>
 <atom:link href="https://tilde.club/~enamel/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+everydays 9
+</title><description><![CDATA[
+
+<p>Finished the music projects section of <a href="https://tilde.club/~enamel/blog/index.html">my homepage</a> which completes
+   the bulk of what I originally intended to do with my tilde page. I have come up with some new ideas for some new pages, and
+   I will probably continue to tweak it, I have come to hate the color. Which makes sense as I tried to pick a really awful
+   color scheme for it.</p>
+
+<p>I feel like I am starting to get into a groove with everydays, I am now trying to get them wrapped up by midnight to make sure I
+   don't spend too much time working into the wee hours of the morning. We will see how my motivation goes as things get a little
+   more free form and I don't have a set list of items I am trying to tick off.</p>
+
+<p>I want to dive back into live coding with Tidal Cycles, and I may try to push an update to UNCLE. Not really sure what comes next
+   maybe more HTML hacking!</p>
+
+<p>streak: 9</p>
+
+<p>tags: <a href='tag_everydays.html'>everydays</a>, <a href='tag_homepage-update.html'>homepage-update</a></p>
+<!-- text end -->
+]]></description><link>https://tilde.club/~enamel/blog/everydays-9.html</link>
+<guid>https://tilde.club/~enamel/blog/./everydays-9.html</guid>
+<dc:creator>~enamel</dc:creator>
+<pubDate>Wed, 22 Jul 2020 06:29:59 +0000</pubDate></item>
+<item><title>
+bop it
+</title><description><![CDATA[
+
+<p>A little jam session in tidal cycles using bop it samples</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OeZd3sox1Io" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zo1VxNCP42A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>tags: <a href='tag_bleep-bloops.html'>bleep-bloops</a>, <a href='tag_tidal-cycles.html'>tidal-cycles</a>, <a href='tag_live-coding.html'>live-coding</a></p>
+<!-- text end -->
+]]></description><link>https://tilde.club/~enamel/blog/bop-it.html</link>
+<guid>https://tilde.club/~enamel/blog/./bop-it.html</guid>
+<dc:creator>~enamel</dc:creator>
+<pubDate>Wed, 22 Jul 2020 04:23:40 +0000</pubDate></item>
 <item><title>
 everydays 8
 </title><description><![CDATA[
