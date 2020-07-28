@@ -2,9 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>hi im enamel</title><link>https://tilde.club/~enamel/blog/index.html</link>
 <description></description><language>en</language>
-<lastBuildDate>Tue, 28 Jul 2020 03:50:23 +0000</lastBuildDate>
-<pubDate>Tue, 28 Jul 2020 03:50:23 +0000</pubDate>
+<lastBuildDate>Tue, 28 Jul 2020 22:30:39 +0000</lastBuildDate>
+<pubDate>Tue, 28 Jul 2020 22:30:39 +0000</pubDate>
 <atom:link href="https://tilde.club/~enamel/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+everydays 14
+</title><description><![CDATA[
+
+<p>Yesterday's everyday was something a little different, and closer to what I do professionally. It was a very hot day and I wanted to
+   see if I could keep the temperature inside my house cooler than outside and if so, by how much. My theory went something like this:
+   first, draw in as much cool air overnight, then in the morning shut the windows and blinds (to reduce the solar load) and log
+   indoor and outdoor temperatures over the day.</p>
+
+<p>When I started logging data I had a pretty close correlation between the indoor and outdoor temps. As the outdoor temps started to
+   rise, the indoor temp rose at a much higher rate. I am patting myself on the back at this point. However as I don't have air
+   conditioning, I was expecting the indoor temp to track closer to the outdoor temp but I found the indoor temp to stay quite a bit
+   lower than I was expecting.</p>
+
+<p>Around 5pm I was measuring a 10 degree temperature difference, but I was pretty sceptical that I was measuring indoor temp
+   accurately. I stepped outside and couldn't tell a huge difference. So I decided I would open the windows and turn the fans on and
+   equalize the temperatures. After two hours I was not seeing the equalization I was expecting.</p>
+
+<p>This data simply left me questioning my measuring devices. I was using my thermostat for indoor temp and pulling outdoor temp off
+   the internet. I would love to repeat this experiment with more accurate and SELF LOGGING equipment. I also want to measure humidity
+   as higher humidity in the house could have made the temperature difference feel lower.</p>
+
+<p>Here is a table of data I don't trust:</p>
+
+<img src="../images/temp-study.png">
+
+<p>tags: <a href='tag_everydays.html'>everydays</a></p>
+<!-- text end -->
+]]></description><link>https://tilde.club/~enamel/blog/everydays-14.html</link>
+<guid>https://tilde.club/~enamel/blog/./everydays-14.html</guid>
+<dc:creator>~enamel</dc:creator>
+<pubDate>Tue, 28 Jul 2020 22:28:44 +0000</pubDate></item>
 <item><title>
 everydays 13
 </title><description><![CDATA[
