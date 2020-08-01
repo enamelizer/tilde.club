@@ -2,9 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>hi im enamel</title><link>https://tilde.club/~enamel/blog/index.html</link>
 <description></description><language>en</language>
-<lastBuildDate>Sat, 01 Aug 2020 06:25:57 +0000</lastBuildDate>
-<pubDate>Sat, 01 Aug 2020 06:25:57 +0000</pubDate>
+<lastBuildDate>Sat, 01 Aug 2020 07:08:56 +0000</lastBuildDate>
+<pubDate>Sat, 01 Aug 2020 07:08:56 +0000</pubDate>
 <atom:link href="https://tilde.club/~enamel/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+everydays 18
+</title><description><![CDATA[
+
+<p>In the itch.io racial justice bundle I came across an app named <a href="https://arudson.itch.io/drum-brain">Drum Brain</a>.
+   It allows you to use a Rockband drum set to create drum loops. It is pretty cool on it's own, but then I realized you can
+   load in your own samples, and since I am a terrible drummer I also was very happy to see a quantize function in there.</p>
+
+<p>So I loaded up a bunch of 808 samples and made a nice little loop. Really fun to play around with, basically using a e-drum
+   set instead of a sequencer. Here is the sequence and the output.</p>
+
+<p>
+    <img src="../images/drumbrain.png">
+</p>
+
+<p>
+    <audio controls>
+        <source src="../audio/dbrain-808.mp3" type="audio/mp3">
+    </audio>
+</p>
+
+<p>tags: <a href='tag_everydays.html'>everydays</a>, <a href='tag_bleep-bloops.html'>bleep-bloops</a>, <a href='tag_drum-brain.html'>drum-brain</a></p>
+<!-- text end -->
+]]></description><link>https://tilde.club/~enamel/blog/everydays-18.html</link>
+<guid>https://tilde.club/~enamel/blog/./everydays-18.html</guid>
+<dc:creator>~enamel</dc:creator>
+<pubDate>Sat, 01 Aug 2020 07:08:22 +0000</pubDate></item>
 <item><title>
 everydays 17
 </title><description><![CDATA[
