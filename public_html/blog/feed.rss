@@ -2,9 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>hi im enamel</title><link>https://tilde.club/~enamel/blog/index.html</link>
 <description></description><language>en</language>
-<lastBuildDate>Mon, 21 Dec 2020 09:01:04 +0000</lastBuildDate>
-<pubDate>Mon, 21 Dec 2020 09:01:04 +0000</pubDate>
+<lastBuildDate>Sun, 03 Jan 2021 19:50:30 +0000</lastBuildDate>
+<pubDate>Sun, 03 Jan 2021 19:50:30 +0000</pubDate>
 <atom:link href="https://tilde.club/~enamel/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+vcvrack_01
+</title><description><![CDATA[
+
+<p>A VCV Rack patch I made based on the first patch in Omri Cohen's tutorial series 
+<a href="https://youtu.be/RTdVbR_qTWg">https://youtu.be/RTdVbR_qTWg</a></p>
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/oOzdJIWzScM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<p>tags: <a href='tag_bleep-bloops.html'>bleep-bloops</a>, <a href='tag_vcv-rack.html'>vcv-rack</a>, <a href='tag_synth.html'>synth</a></p>
+<!-- text end -->
+]]></description><link>https://tilde.club/~enamel/blog/vcvrack01.html</link>
+<guid>https://tilde.club/~enamel/blog/./vcvrack01.html</guid>
+<dc:creator>~enamel</dc:creator>
+<pubDate>Sun, 03 Jan 2021 19:47:39 +0000</pubDate></item>
 <item><title>
 uncle giveaway lullaby
 </title><description><![CDATA[
