@@ -2,9 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>hi im enamel</title><link>https://tilde.club/~enamel/blog/index.html</link>
 <description></description><language>en</language>
-<lastBuildDate>Wed, 06 Jan 2021 09:46:14 +0000</lastBuildDate>
-<pubDate>Wed, 06 Jan 2021 09:46:14 +0000</pubDate>
+<lastBuildDate>Mon, 25 Jan 2021 00:28:42 +0000</lastBuildDate>
+<pubDate>Mon, 25 Jan 2021 00:28:42 +0000</pubDate>
 <atom:link href="https://tilde.club/~enamel/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+vcvrack_03
+</title><description><![CDATA[
+
+<p>Tutorial #3 was on the voltage controlled filter. I also was playing around with controlling the knobs with my
+new midi controller, the Arturia Minilab MkII. Not too happy with the outcome here, but made a video to document it
+nonetheless.</p>
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BOrdMWRsNs0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<p>tags: <a href='tag_bleep-bloops.html'>bleep-bloops</a>, <a href='tag_vcv-rack.html'>vcv-rack</a>, <a href='tag_synth.html'>synth</a></p>
+<!-- text end -->
+]]></description><link>https://tilde.club/~enamel/blog/vcvrack03.html</link>
+<guid>https://tilde.club/~enamel/blog/./vcvrack03.html</guid>
+<dc:creator>~enamel</dc:creator>
+<pubDate>Mon, 25 Jan 2021 00:27:11 +0000</pubDate></item>
 <item><title>
 vcvrack_02
 </title><description><![CDATA[
